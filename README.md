@@ -1,4 +1,4 @@
-# Gerador De Senhas
+# Gerador De Senha
 
 ## REQUIRES
 
