@@ -8,4 +8,4 @@ html<br>css<br>js
 
 ## SITE DE TESTE: https://gerador-de-senha-ruby-three.vercel.app/
 
-### [ By DaviSilvaDev ](https://github.com/DaviSilvaDev)
+### [ By DaviSilvaDev ](https://imdavixz.vercel.app)
