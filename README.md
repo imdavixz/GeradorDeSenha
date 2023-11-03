@@ -1,4 +1,4 @@
-# Gerador De Senhas
+# Gerador De Senha
 
 ## REQUIRES
 
@@ -6,4 +6,6 @@ html<br>css<br>js
 
 *Não dou suporte para instalação!*
 
-### [ By DaviSilvaDev ](https://github.com/DaviSilvaDev)
+## SITE DE TESTE: https://gerador-de-senhas-imdavixz.vercel.app/
+
+### [ By DaviSilvaDev ](https://imdavixz.vercel.app)
